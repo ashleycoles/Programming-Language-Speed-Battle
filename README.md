@@ -8,7 +8,8 @@ The first benchmark is a simple one. Count up to 1 billion, summing up a running
 | ----------- | --------------- | ------------ |
 | Python 3    | Default CPython | 93 seconds   |
 | PHP 7.4     |                 | 36.39 seconds |
-| PHP 8       |                 | 8.6 seconds  |
+| PHP 5.6     |                 | 23.8 seconds |
+| PHP 8.1     |                 | 8.6 seconds  |
 | JavaScript  | Node            | 2.07 seconds |
 | PHP 8       | JIT Enabled     | 1.7 seconds  |
 | C           | No compiler optimisation | 1.49 seconds |

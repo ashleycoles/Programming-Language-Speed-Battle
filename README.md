@@ -16,5 +16,6 @@ The first benchmark is a simple one. Count up to 1 billion, summing up a running
 | C           | No compiler optimisation | 1.49 seconds        |
 | Python 3    | PyPy                     | 1.07 seconds        |
 | Golang      |                          | 0.5 seconds         |
+| Java        |                          | 0.32 seconds        |
 | C           | -O2 optimisation flag    | 0.000036 seconds    |
 | Rust        | Level 2 optimisation     | 0.000000022 seconds |
